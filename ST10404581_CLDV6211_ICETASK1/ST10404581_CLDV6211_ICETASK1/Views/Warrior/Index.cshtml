@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+@* @model IEnumerables<ST10404581_CLDV6211_ICETASK1.Models.Warrior> *@
+<body style="background-color:darkolivegreen">
+    <h2 style="color:yellow">Ledger Of The Warriors Of Sunlight</h2>
+    @* <p>@Html.ActionLink("Make New Entry","Create")</p> *@
+    <p>@Html.ActionLink("Create New","Create")</p>
+
+    <table class="table">
+        <tr>
+            <th>Name</th>
+            <th>DateJoined</th>
+            <th>TimesSummoned</th>
+        </tr>
+        @foreach (var Warrior in Model)
+        {
+            <tr>
+                <td>@Warrior.Name</td>
+                <td>@Warrior.DateJoined</td>
+                <td>@Warrior.TimesSummoned</td>
+                <td>
+                @* @Html.ActionLink("Edit Ledger","Edit", new {id=Warrior.Id},new{@class="btn btn-primary"}) *@
+                    @Html.ActionLink("Edit", "Edit", new { id = Warrior.Id }, new { @class = "btn btn-primary" })
+                </td>
+            </tr>
+        }
+    </table>
+</body>

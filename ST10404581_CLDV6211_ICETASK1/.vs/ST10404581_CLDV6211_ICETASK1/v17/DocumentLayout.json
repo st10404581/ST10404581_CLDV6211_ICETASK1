@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|c:\\users\\hameed\\source\\repos\\st10404581_cldv6211_icetask1\\st10404581_cldv6211_icetask1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|solutionrelative:st10404581_cldv6211_icetask1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|c:\\users\\hameed\\source\\repos\\st10404581_cldv6211_icetask1\\st10404581_cldv6211_icetask1\\views\\warrior\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|solutionrelative:st10404581_cldv6211_icetask1\\views\\warrior\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|c:\\users\\hameed\\source\\repos\\st10404581_cldv6211_icetask1\\st10404581_cldv6211_icetask1\\views\\warrior\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|solutionrelative:st10404581_cldv6211_icetask1\\views\\warrior\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|c:\\users\\hameed\\source\\repos\\st10404581_cldv6211_icetask1\\st10404581_cldv6211_icetask1\\views\\warrior\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|solutionrelative:st10404581_cldv6211_icetask1\\views\\warrior\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|c:\\users\\hameed\\source\\repos\\st10404581_cldv6211_icetask1\\st10404581_cldv6211_icetask1\\controllers\\warriorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|solutionrelative:st10404581_cldv6211_icetask1\\controllers\\warriorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|c:\\users\\hameed\\source\\repos\\st10404581_cldv6211_icetask1\\st10404581_cldv6211_icetask1\\views\\warrior\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|solutionrelative:st10404581_cldv6211_icetask1\\views\\warrior\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|c:\\users\\hameed\\source\\repos\\st10404581_cldv6211_icetask1\\st10404581_cldv6211_icetask1\\models\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|solutionrelative:st10404581_cldv6211_icetask1\\models\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|c:\\users\\hameed\\source\\repos\\st10404581_cldv6211_icetask1\\st10404581_cldv6211_icetask1\\views\\home\\bestwarrior.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|solutionrelative:st10404581_cldv6211_icetask1\\views\\home\\bestwarrior.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|c:\\users\\hameed\\source\\repos\\st10404581_cldv6211_icetask1\\st10404581_cldv6211_icetask1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|solutionrelative:st10404581_cldv6211_icetask1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|c:\\users\\hameed\\source\\repos\\st10404581_cldv6211_icetask1\\st10404581_cldv6211_icetask1\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|solutionrelative:st10404581_cldv6211_icetask1\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|c:\\users\\hameed\\source\\repos\\st10404581_cldv6211_icetask1\\st10404581_cldv6211_icetask1\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|solutionrelative:st10404581_cldv6211_icetask1\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|c:\\users\\hameed\\source\\repos\\st10404581_cldv6211_icetask1\\st10404581_cldv6211_icetask1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|solutionrelative:st10404581_cldv6211_icetask1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|c:\\users\\hameed\\source\\repos\\st10404581_cldv6211_icetask1\\st10404581_cldv6211_icetask1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D7781C-2559-4FA7-A8D5-E443439FF491}|ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1.csproj|solutionrelative:st10404581_cldv6211_icetask1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Create.cshtml",
+              "RelativeDocumentMoniker": "ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Create.cshtml",
+              "RelativeToolTip": "ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T22:45:40.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WarriorController.cs",
+              "DocumentMoniker": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Controllers\\WarriorController.cs",
+              "RelativeDocumentMoniker": "ST10404581_CLDV6211_ICETASK1\\Controllers\\WarriorController.cs",
+              "ToolTip": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Controllers\\WarriorController.cs",
+              "RelativeToolTip": "ST10404581_CLDV6211_ICETASK1\\Controllers\\WarriorController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwFEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:41:31.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Models\\Warrior.cs",
+              "RelativeDocumentMoniker": "ST10404581_CLDV6211_ICETASK1\\Models\\Warrior.cs",
+              "ToolTip": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Models\\Warrior.cs",
+              "RelativeToolTip": "ST10404581_CLDV6211_ICETASK1\\Models\\Warrior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:36:51.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Delete.cshtml",
+              "RelativeToolTip": "ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T21:12:42.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Edit.cshtml",
+              "RelativeToolTip": "ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwB0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T21:12:23.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Index.cshtml",
+              "RelativeDocumentMoniker": "ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Index.cshtml",
+              "RelativeToolTip": "ST10404581_CLDV6211_ICETASK1\\Views\\Warrior\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T21:10:20.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BestWarrior.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Home\\BestWarrior.cshtml",
+              "RelativeDocumentMoniker": "ST10404581_CLDV6211_ICETASK1\\Views\\Home\\BestWarrior.cshtml",
+              "ToolTip": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Home\\BestWarrior.cshtml",
+              "RelativeToolTip": "ST10404581_CLDV6211_ICETASK1\\Views\\Home\\BestWarrior.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T05:45:20.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ST10404581_CLDV6211_ICETASK1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ST10404581_CLDV6211_ICETASK1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACIAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T15:42:24.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "ST10404581_CLDV6211_ICETASK1\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "ST10404581_CLDV6211_ICETASK1\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T15:03:32.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ST10404581_CLDV6211_ICETASK1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ST10404581_CLDV6211_ICETASK1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T14:48:16.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "ST10404581_CLDV6211_ICETASK1\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "ST10404581_CLDV6211_ICETASK1\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T14:52:08.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ST10404581_CLDV6211_ICETASK1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ST10404581_CLDV6211_ICETASK1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T14:48:18.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ST10404581_CLDV6211_ICETASK1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hameed\\source\\repos\\ST10404581_CLDV6211_ICETASK1\\ST10404581_CLDV6211_ICETASK1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ST10404581_CLDV6211_ICETASK1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAxwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:47:21.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

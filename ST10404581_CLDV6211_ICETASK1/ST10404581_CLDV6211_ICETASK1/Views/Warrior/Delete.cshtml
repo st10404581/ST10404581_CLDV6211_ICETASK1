@@ -1,0 +1,25 @@
+﻿@model ST10404581_CLDV6211_ICETASK1.Models.Warrior
+@{
+    ViewData["Title"] = "Delete Warrior";
+}
+
+<body style="background-color:darkolivegreen">
+    <h2 style="color:yellow">Remove a Warrior</h2>
+    <p style="color:yellow">Are you sure you want to remove this warrior from the ledger?</p>
+    <div>
+        <dl class="dl-horizontal">
+            <dt>Nmae:</dt>
+            <dd>@Model.Name</dd>
+            <dt>Date Joined:</dt>
+            <dd>@Model.DateJoined</dd>
+            <dt>Times Summoned</dt>
+            <dd>@Model.TimesSummoned</dd>
+        </dl>
+    </div>
+
+    <form asp-action="Delete" method="post">
+        @Html.HiddenFor(model =>model.Id)
+        <input type="submit" value="Delete" class="btn btn-danger"/>
+        <a asp-action="Index" class="btn btn-default">Back to the Ledger</a>
+    </form>
+</body>

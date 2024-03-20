@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+@model ST10404581_CLDV6211_ICETASK1.Models.Warrior
+
+<body style="background-color:darkolivegreen">
+    <h2 style="color:yellow">Create A Ledger Entry</h2>
+</body>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Name)
+        @Html.TextBoxFor(model => model.Name, new {@class = "form-control"})
+        @Html.ValidationMessageFor(model => model.Name)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.DateJoined)
+        @Html.TextBoxFor(model => model.DateJoined, new {@class = "form-control"})
+        @Html.ValidationMessageFor(model => model.DateJoined)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.TimesSummoned)
+        @Html.TextBoxFor(model => model.TimesSummoned, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.TimesSummoned)
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+}
